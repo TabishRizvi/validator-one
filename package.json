@@ -1,0 +1,14 @@
+{
+  "name": "validator-one",
+  "version": "0.1.0",
+  "description": "Node modules for validating route parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tabish Rizvi",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.10.6"
+  }
+}
